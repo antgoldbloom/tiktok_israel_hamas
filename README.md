@@ -1,19 +1,30 @@
-# Israel Hamas conflict 
+# TikTok, the Israel-Hamas conflict and antisemitism 
 
-This repo looks at data associated with the Israel Hamas conflict that started on October 7 2023. 
+This repo contains data and analysis connected to the spread of pro-Palestinian vs pro-Israel content on TikTok. And the contection between TikTok and the current rise in antisemitism. 
 
-There are two data sources:
-1. a survey conducted by [The Generation Lab](https://www.generationlab.org/) that looks at the connection between social media usage and antisemtism.
-1. a crawl of TikTok's advertiser [analytics page](https://ads.tiktok.com/business/creativecenter/hashtag/freepalestine/pc/en?period=7) 
+## Background
 
-There is a connection between TikTok use in particular and antisemtism. 
+Survey data suggests TikTok is a meaningful driver of the current surge in antisemitism. The survey finds that spending 30 minutes a day on TikTok increases the chances somebody holds anti-Semitic or anti-Israel views by 17%, compared with 6% for Instagram and 2% for X. 
 
 ![Correlation between social media use and antisemtism](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/correlation_between_social_media_and_antisemitism.png)
 
-This is likely because for every video that viewed in the US with a pro-Israel hashtag, there are ~54 views of videos with pro-Palestinian hashtags.
+A likely driver here is that for every video view with a pro-Israel hashtag in the US, there are 54 views with pro-Palestinian hashtags. 
 
 ![Ratio of pro-Palestinian views to pro-Israel views](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/20231127_us_top_hashtags_israel_hamas.png)
 
-TikTok has immense scale, so has a huge impact on shaping views among under 30s. 
+Given TikTok’s scale, it’s not surprising that this imbalance of spread corresponds to an increase in antisemitism. 
+
 
 ![TikTok scale by comparing with mainstream media](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/free_palestine_vs_mainstream_media.png)
+
+## Data
+
+Data in this repo:
+1. [raw survey file](data/generation_lab_survey/raw_survey_1323.xlsx)
+2. [clean survey file](/data/generation_lab_survey/survey_israel_questions_clean.csv)
+3. [tiktok hashtag by country file](/data/tiktok_hashtags/tiktok_hashtags_by_country_20231127_clean.csv.gz) 
+
+## Notebooks
+
+1. [social media survey notebook](social_media_survey_notebook.ipynb)
+2. [tiktok hashtag notebook](tiktok_hashtag_notebook.ipynb)
