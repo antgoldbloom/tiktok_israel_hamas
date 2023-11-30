@@ -10,7 +10,7 @@ Survey data suggests TikTok is a meaningful driver of the current surge in antis
 
 A likely driver here is that for every video view with a pro-Israel hashtag in the US, there are 54 views with pro-Palestinian hashtags. 
 
-![Ratio of pro-Palestinian views to pro-Israel views](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/20231127_us_top_hashtags_israel_hamas.png)
+![Ratio of pro-Palestinian views to pro-Israel views](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/20231129_us_top_hashtags_israel_hamas.png)
 
 Given TikTok’s scale, it’s not surprising that this imbalance of spread corresponds to an increase in antisemitism. 
 
