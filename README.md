@@ -6,11 +6,13 @@ This repo contains data and analysis connected to the spread of pro-Palestinian 
 
 Survey data suggests TikTok is a meaningful driver of the current surge in antisemitism. The survey finds that spending 30 minutes a day on TikTok increases the chances somebody holds anti-Semitic or anti-Israel views by 17%, compared with 6% for Instagram and 2% for X. 
 
+Survey was conducted between November 21 and November 27. It includes 1323 people aged between 18 and 29. 
+
 ![Correlation between social media use and antisemtism](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/correlation_between_social_media_and_antisemitism.png)
 
 A likely driver here is that for every video view with a pro-Israel hashtag in the US, there are 54 views with pro-Palestinian hashtags. 
 
-![Ratio of pro-Palestinian views to pro-Israel views](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/20231202_us_top_hashtags_israel_hamas.png)
+![Ratio of pro-Palestinian views to pro-Israel views](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/20231210_us_top_hashtags_israel_hamas.png)
 
 Given TikTok’s scale, it’s not surprising that this imbalance of spread corresponds to an increase in antisemitism. 
 
