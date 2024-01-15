@@ -14,7 +14,7 @@ A likely driver here is that for every video view with a pro-Israel hashtag in t
 
 ![Ratio of pro-Palestinian views to pro-Israel views](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/20231210_us_top_hashtags_israel_hamas.png)
 
-Given TikTok’s scale, it’s not surprising that this imbalance of spread corresponds to an increase in antisemitism. Though it may also be the case that this is simply a correlation and TikTok is not the cause, but rather the effect of Israel's actions. Given Israel's self-proclaimed status as a representative of the Jewish people, paired with it's vicious indiscriminate bombing campaign yielding thousands of civilian deaths, it should be no surprise that anti-semitism is on the rise and such a rise would obviously be reflected on social media platforms - especially those with a more liberal and youthful demographic.
+Given TikTok’s scale, it’s not surprising that this imbalance of spread corresponds to an increase in antisemitism. Though it may also be the case that this is simply a correlation and support for Palestine is not the cause, but rather the effect of Israel's actions. Given Israel's self-proclaimed status as a representative of the Jewish people, paired with it's vicious indiscriminate bombing campaign yielding thousands of civilian deaths, it should be no surprise that anti-semitism is on the rise and such a rise would obviously be reflected on social media platforms - especially those with a more liberal and youthful demographic.
 
 
 ![TikTok scale by comparing with mainstream media](https://github.com/antgoldbloom/tiktok_israel_hamas/blob/main/charts/free_palestine_vs_mainstream_media.png)
